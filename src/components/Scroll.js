@@ -5,7 +5,7 @@ import './Scroll.css';
 
 const Scroll = (props) => {
     return (
-        <div class="scrollable">
+        <div className="scrollable">
             {props.children}
         </div>
 
